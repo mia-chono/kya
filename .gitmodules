@@ -1,3 +1,6 @@
 [submodule "crunchy_api"]
 	path = crunchy_api
 	url = git@github.com:mia-chono/crunchy_api.git
+[submodule "fftools"]
+	path = fftools
+	url = git@github.com:mia-chono/fftools.git

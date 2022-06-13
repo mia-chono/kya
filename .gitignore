@@ -159,3 +159,8 @@ cython_debug/
 .idea/
 .vs/
 .vscode/
+
+# downloaded files to ignore
+*.mp4
+*.ass
+*.mkv
